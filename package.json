@@ -1,0 +1,26 @@
+{
+  "name": "assignmenttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TayoOtegbayo/AssignmentTest.git"
+  },
+  "author": "Mogboluwaga Tayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TayoOtegbayo/AssignmentTest/issues"
+  },
+  "homepage": "https://github.com/TayoOtegbayo/AssignmentTest#readme",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  },
+  "devDependencies": {
+    "cy-spok": "^1.6.1",
+    "cypress-map": "^1.12.3"
+  }
+}
